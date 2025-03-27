@@ -1,0 +1,14 @@
+C:\Users\serhat\source\repos\Bankahesapnumarası\Bankahesapnumarası\bin\Debug\net8.0\Bankahesapnumarası.exe
+C:\Users\serhat\source\repos\Bankahesapnumarası\Bankahesapnumarası\bin\Debug\net8.0\Bankahesapnumarası.deps.json
+C:\Users\serhat\source\repos\Bankahesapnumarası\Bankahesapnumarası\bin\Debug\net8.0\Bankahesapnumarası.runtimeconfig.json
+C:\Users\serhat\source\repos\Bankahesapnumarası\Bankahesapnumarası\bin\Debug\net8.0\Bankahesapnumarası.dll
+C:\Users\serhat\source\repos\Bankahesapnumarası\Bankahesapnumarası\bin\Debug\net8.0\Bankahesapnumarası.pdb
+C:\Users\serhat\source\repos\Bankahesapnumarası\Bankahesapnumarası\obj\Debug\net8.0\Bankahesapnumarası.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\Bankahesapnumarası\Bankahesapnumarası\obj\Debug\net8.0\Bankahesapnumarası.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\Bankahesapnumarası\Bankahesapnumarası\obj\Debug\net8.0\Bankahesapnumarası.AssemblyInfo.cs
+C:\Users\serhat\source\repos\Bankahesapnumarası\Bankahesapnumarası\obj\Debug\net8.0\Bankahesapnumarası.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\Bankahesapnumarası\Bankahesapnumarası\obj\Debug\net8.0\Bankahesapnumarası.dll
+C:\Users\serhat\source\repos\Bankahesapnumarası\Bankahesapnumarası\obj\Debug\net8.0\refint\Bankahesapnumarası.dll
+C:\Users\serhat\source\repos\Bankahesapnumarası\Bankahesapnumarası\obj\Debug\net8.0\Bankahesapnumarası.pdb
+C:\Users\serhat\source\repos\Bankahesapnumarası\Bankahesapnumarası\obj\Debug\net8.0\Bankahesapnumarası.genruntimeconfig.cache
+C:\Users\serhat\source\repos\Bankahesapnumarası\Bankahesapnumarası\obj\Debug\net8.0\ref\Bankahesapnumarası.dll

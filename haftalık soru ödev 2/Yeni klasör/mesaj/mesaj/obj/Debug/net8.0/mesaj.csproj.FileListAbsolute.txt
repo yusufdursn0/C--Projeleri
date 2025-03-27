@@ -1,0 +1,14 @@
+C:\Users\serhat\source\repos\mesaj\mesaj\obj\Debug\net8.0\mesaj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\mesaj\mesaj\obj\Debug\net8.0\mesaj.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\mesaj\mesaj\obj\Debug\net8.0\mesaj.AssemblyInfo.cs
+C:\Users\serhat\source\repos\mesaj\mesaj\obj\Debug\net8.0\mesaj.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\mesaj\mesaj\bin\Debug\net8.0\mesaj.exe
+C:\Users\serhat\source\repos\mesaj\mesaj\bin\Debug\net8.0\mesaj.deps.json
+C:\Users\serhat\source\repos\mesaj\mesaj\bin\Debug\net8.0\mesaj.runtimeconfig.json
+C:\Users\serhat\source\repos\mesaj\mesaj\bin\Debug\net8.0\mesaj.dll
+C:\Users\serhat\source\repos\mesaj\mesaj\bin\Debug\net8.0\mesaj.pdb
+C:\Users\serhat\source\repos\mesaj\mesaj\obj\Debug\net8.0\mesaj.dll
+C:\Users\serhat\source\repos\mesaj\mesaj\obj\Debug\net8.0\refint\mesaj.dll
+C:\Users\serhat\source\repos\mesaj\mesaj\obj\Debug\net8.0\mesaj.pdb
+C:\Users\serhat\source\repos\mesaj\mesaj\obj\Debug\net8.0\mesaj.genruntimeconfig.cache
+C:\Users\serhat\source\repos\mesaj\mesaj\obj\Debug\net8.0\ref\mesaj.dll

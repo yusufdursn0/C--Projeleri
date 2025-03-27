@@ -1,0 +1,14 @@
+C:\Users\serhat\source\repos\madenciler\madenciler\bin\Debug\net8.0\madenciler.exe
+C:\Users\serhat\source\repos\madenciler\madenciler\bin\Debug\net8.0\madenciler.deps.json
+C:\Users\serhat\source\repos\madenciler\madenciler\bin\Debug\net8.0\madenciler.runtimeconfig.json
+C:\Users\serhat\source\repos\madenciler\madenciler\bin\Debug\net8.0\madenciler.dll
+C:\Users\serhat\source\repos\madenciler\madenciler\bin\Debug\net8.0\madenciler.pdb
+C:\Users\serhat\source\repos\madenciler\madenciler\obj\Debug\net8.0\madenciler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\madenciler\madenciler\obj\Debug\net8.0\madenciler.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\madenciler\madenciler\obj\Debug\net8.0\madenciler.AssemblyInfo.cs
+C:\Users\serhat\source\repos\madenciler\madenciler\obj\Debug\net8.0\madenciler.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\madenciler\madenciler\obj\Debug\net8.0\madenciler.dll
+C:\Users\serhat\source\repos\madenciler\madenciler\obj\Debug\net8.0\refint\madenciler.dll
+C:\Users\serhat\source\repos\madenciler\madenciler\obj\Debug\net8.0\madenciler.pdb
+C:\Users\serhat\source\repos\madenciler\madenciler\obj\Debug\net8.0\madenciler.genruntimeconfig.cache
+C:\Users\serhat\source\repos\madenciler\madenciler\obj\Debug\net8.0\ref\madenciler.dll

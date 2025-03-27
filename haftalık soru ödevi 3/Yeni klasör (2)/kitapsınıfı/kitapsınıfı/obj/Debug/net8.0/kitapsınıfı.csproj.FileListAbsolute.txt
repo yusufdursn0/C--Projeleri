@@ -1,0 +1,14 @@
+C:\Users\serhat\source\repos\kitapsınıfı\kitapsınıfı\bin\Debug\net8.0\kitapsınıfı.exe
+C:\Users\serhat\source\repos\kitapsınıfı\kitapsınıfı\bin\Debug\net8.0\kitapsınıfı.deps.json
+C:\Users\serhat\source\repos\kitapsınıfı\kitapsınıfı\bin\Debug\net8.0\kitapsınıfı.runtimeconfig.json
+C:\Users\serhat\source\repos\kitapsınıfı\kitapsınıfı\bin\Debug\net8.0\kitapsınıfı.dll
+C:\Users\serhat\source\repos\kitapsınıfı\kitapsınıfı\bin\Debug\net8.0\kitapsınıfı.pdb
+C:\Users\serhat\source\repos\kitapsınıfı\kitapsınıfı\obj\Debug\net8.0\kitapsınıfı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\kitapsınıfı\kitapsınıfı\obj\Debug\net8.0\kitapsınıfı.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\kitapsınıfı\kitapsınıfı\obj\Debug\net8.0\kitapsınıfı.AssemblyInfo.cs
+C:\Users\serhat\source\repos\kitapsınıfı\kitapsınıfı\obj\Debug\net8.0\kitapsınıfı.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\kitapsınıfı\kitapsınıfı\obj\Debug\net8.0\kitapsınıfı.dll
+C:\Users\serhat\source\repos\kitapsınıfı\kitapsınıfı\obj\Debug\net8.0\refint\kitapsınıfı.dll
+C:\Users\serhat\source\repos\kitapsınıfı\kitapsınıfı\obj\Debug\net8.0\kitapsınıfı.pdb
+C:\Users\serhat\source\repos\kitapsınıfı\kitapsınıfı\obj\Debug\net8.0\kitapsınıfı.genruntimeconfig.cache
+C:\Users\serhat\source\repos\kitapsınıfı\kitapsınıfı\obj\Debug\net8.0\ref\kitapsınıfı.dll

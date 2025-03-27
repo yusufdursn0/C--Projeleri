@@ -1,0 +1,10 @@
+C:\Users\ibrah\source\repos\TicTacToeApp\TicTacToeApp\bin\Debug\TicTacToeApp.exe.config
+C:\Users\ibrah\source\repos\TicTacToeApp\TicTacToeApp\bin\Debug\TicTacToeApp.exe
+C:\Users\ibrah\source\repos\TicTacToeApp\TicTacToeApp\bin\Debug\TicTacToeApp.pdb
+C:\Users\ibrah\source\repos\TicTacToeApp\TicTacToeApp\obj\Debug\TicTacToeApp.csprojAssemblyReference.cache
+C:\Users\ibrah\source\repos\TicTacToeApp\TicTacToeApp\obj\Debug\TicTacToeApp.Form1.resources
+C:\Users\ibrah\source\repos\TicTacToeApp\TicTacToeApp\obj\Debug\TicTacToeApp.Properties.Resources.resources
+C:\Users\ibrah\source\repos\TicTacToeApp\TicTacToeApp\obj\Debug\TicTacToeApp.csproj.GenerateResource.cache
+C:\Users\ibrah\source\repos\TicTacToeApp\TicTacToeApp\obj\Debug\TicTacToeApp.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\TicTacToeApp\TicTacToeApp\obj\Debug\TicTacToeApp.exe
+C:\Users\ibrah\source\repos\TicTacToeApp\TicTacToeApp\obj\Debug\TicTacToeApp.pdb

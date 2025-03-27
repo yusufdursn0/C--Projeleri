@@ -1,0 +1,14 @@
+C:\Users\serhat\source\repos\matematiksel\matematiksel\bin\Debug\net8.0\matematiksel.exe
+C:\Users\serhat\source\repos\matematiksel\matematiksel\bin\Debug\net8.0\matematiksel.deps.json
+C:\Users\serhat\source\repos\matematiksel\matematiksel\bin\Debug\net8.0\matematiksel.runtimeconfig.json
+C:\Users\serhat\source\repos\matematiksel\matematiksel\bin\Debug\net8.0\matematiksel.dll
+C:\Users\serhat\source\repos\matematiksel\matematiksel\bin\Debug\net8.0\matematiksel.pdb
+C:\Users\serhat\source\repos\matematiksel\matematiksel\obj\Debug\net8.0\matematiksel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\matematiksel\matematiksel\obj\Debug\net8.0\matematiksel.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\matematiksel\matematiksel\obj\Debug\net8.0\matematiksel.AssemblyInfo.cs
+C:\Users\serhat\source\repos\matematiksel\matematiksel\obj\Debug\net8.0\matematiksel.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\matematiksel\matematiksel\obj\Debug\net8.0\matematiksel.dll
+C:\Users\serhat\source\repos\matematiksel\matematiksel\obj\Debug\net8.0\refint\matematiksel.dll
+C:\Users\serhat\source\repos\matematiksel\matematiksel\obj\Debug\net8.0\matematiksel.pdb
+C:\Users\serhat\source\repos\matematiksel\matematiksel\obj\Debug\net8.0\matematiksel.genruntimeconfig.cache
+C:\Users\serhat\source\repos\matematiksel\matematiksel\obj\Debug\net8.0\ref\matematiksel.dll

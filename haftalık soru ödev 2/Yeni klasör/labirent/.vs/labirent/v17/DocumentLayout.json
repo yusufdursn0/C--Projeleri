@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serhat\\source\\repos\\labirent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBBDD9A-3138-4166-9381-AA82EB860E11}|labirent\\labirent.csproj|c:\\users\\serhat\\source\\repos\\labirent\\labirent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEBBDD9A-3138-4166-9381-AA82EB860E11}|labirent\\labirent.csproj|solutionrelative:labirent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serhat\\source\\repos\\labirent\\labirent\\Program.cs",
+              "RelativeDocumentMoniker": "labirent\\Program.cs",
+              "ToolTip": "C:\\Users\\serhat\\source\\repos\\labirent\\labirent\\Program.cs",
+              "RelativeToolTip": "labirent\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvy0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:09:16.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

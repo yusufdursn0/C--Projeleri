@@ -1,0 +1,14 @@
+C:\Users\serhat\source\repos\polinomtoplam\polinomtoplam\bin\Debug\net8.0\polinomtoplam.exe
+C:\Users\serhat\source\repos\polinomtoplam\polinomtoplam\bin\Debug\net8.0\polinomtoplam.deps.json
+C:\Users\serhat\source\repos\polinomtoplam\polinomtoplam\bin\Debug\net8.0\polinomtoplam.runtimeconfig.json
+C:\Users\serhat\source\repos\polinomtoplam\polinomtoplam\bin\Debug\net8.0\polinomtoplam.dll
+C:\Users\serhat\source\repos\polinomtoplam\polinomtoplam\bin\Debug\net8.0\polinomtoplam.pdb
+C:\Users\serhat\source\repos\polinomtoplam\polinomtoplam\obj\Debug\net8.0\polinomtoplam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\polinomtoplam\polinomtoplam\obj\Debug\net8.0\polinomtoplam.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\polinomtoplam\polinomtoplam\obj\Debug\net8.0\polinomtoplam.AssemblyInfo.cs
+C:\Users\serhat\source\repos\polinomtoplam\polinomtoplam\obj\Debug\net8.0\polinomtoplam.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\polinomtoplam\polinomtoplam\obj\Debug\net8.0\polinomtoplam.dll
+C:\Users\serhat\source\repos\polinomtoplam\polinomtoplam\obj\Debug\net8.0\refint\polinomtoplam.dll
+C:\Users\serhat\source\repos\polinomtoplam\polinomtoplam\obj\Debug\net8.0\polinomtoplam.pdb
+C:\Users\serhat\source\repos\polinomtoplam\polinomtoplam\obj\Debug\net8.0\polinomtoplam.genruntimeconfig.cache
+C:\Users\serhat\source\repos\polinomtoplam\polinomtoplam\obj\Debug\net8.0\ref\polinomtoplam.dll

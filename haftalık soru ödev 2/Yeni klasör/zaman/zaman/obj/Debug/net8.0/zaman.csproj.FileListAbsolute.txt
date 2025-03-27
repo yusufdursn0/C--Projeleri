@@ -1,0 +1,14 @@
+C:\Users\serhat\source\repos\zaman\zaman\obj\Debug\net8.0\zaman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\zaman\zaman\obj\Debug\net8.0\zaman.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\zaman\zaman\obj\Debug\net8.0\zaman.AssemblyInfo.cs
+C:\Users\serhat\source\repos\zaman\zaman\obj\Debug\net8.0\zaman.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\zaman\zaman\bin\Debug\net8.0\zaman.exe
+C:\Users\serhat\source\repos\zaman\zaman\bin\Debug\net8.0\zaman.deps.json
+C:\Users\serhat\source\repos\zaman\zaman\bin\Debug\net8.0\zaman.runtimeconfig.json
+C:\Users\serhat\source\repos\zaman\zaman\bin\Debug\net8.0\zaman.dll
+C:\Users\serhat\source\repos\zaman\zaman\bin\Debug\net8.0\zaman.pdb
+C:\Users\serhat\source\repos\zaman\zaman\obj\Debug\net8.0\zaman.dll
+C:\Users\serhat\source\repos\zaman\zaman\obj\Debug\net8.0\refint\zaman.dll
+C:\Users\serhat\source\repos\zaman\zaman\obj\Debug\net8.0\zaman.pdb
+C:\Users\serhat\source\repos\zaman\zaman\obj\Debug\net8.0\zaman.genruntimeconfig.cache
+C:\Users\serhat\source\repos\zaman\zaman\obj\Debug\net8.0\ref\zaman.dll

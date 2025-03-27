@@ -1,0 +1,14 @@
+C:\Users\serhat\source\repos\araçkiralam\araçkiralam\bin\Debug\net8.0\araçkiralam.exe
+C:\Users\serhat\source\repos\araçkiralam\araçkiralam\bin\Debug\net8.0\araçkiralam.deps.json
+C:\Users\serhat\source\repos\araçkiralam\araçkiralam\bin\Debug\net8.0\araçkiralam.runtimeconfig.json
+C:\Users\serhat\source\repos\araçkiralam\araçkiralam\bin\Debug\net8.0\araçkiralam.dll
+C:\Users\serhat\source\repos\araçkiralam\araçkiralam\bin\Debug\net8.0\araçkiralam.pdb
+C:\Users\serhat\source\repos\araçkiralam\araçkiralam\obj\Debug\net8.0\araçkiralam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\araçkiralam\araçkiralam\obj\Debug\net8.0\araçkiralam.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\araçkiralam\araçkiralam\obj\Debug\net8.0\araçkiralam.AssemblyInfo.cs
+C:\Users\serhat\source\repos\araçkiralam\araçkiralam\obj\Debug\net8.0\araçkiralam.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\araçkiralam\araçkiralam\obj\Debug\net8.0\araçkiralam.dll
+C:\Users\serhat\source\repos\araçkiralam\araçkiralam\obj\Debug\net8.0\refint\araçkiralam.dll
+C:\Users\serhat\source\repos\araçkiralam\araçkiralam\obj\Debug\net8.0\araçkiralam.pdb
+C:\Users\serhat\source\repos\araçkiralam\araçkiralam\obj\Debug\net8.0\araçkiralam.genruntimeconfig.cache
+C:\Users\serhat\source\repos\araçkiralam\araçkiralam\obj\Debug\net8.0\ref\araçkiralam.dll

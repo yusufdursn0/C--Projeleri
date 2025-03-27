@@ -1,0 +1,14 @@
+C:\Users\serhat\source\repos\ardışıksayı\ardışıksayı\bin\Debug\net8.0\ardışıksayı.exe
+C:\Users\serhat\source\repos\ardışıksayı\ardışıksayı\bin\Debug\net8.0\ardışıksayı.deps.json
+C:\Users\serhat\source\repos\ardışıksayı\ardışıksayı\bin\Debug\net8.0\ardışıksayı.runtimeconfig.json
+C:\Users\serhat\source\repos\ardışıksayı\ardışıksayı\bin\Debug\net8.0\ardışıksayı.dll
+C:\Users\serhat\source\repos\ardışıksayı\ardışıksayı\bin\Debug\net8.0\ardışıksayı.pdb
+C:\Users\serhat\source\repos\ardışıksayı\ardışıksayı\obj\Debug\net8.0\ardışıksayı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\ardışıksayı\ardışıksayı\obj\Debug\net8.0\ardışıksayı.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\ardışıksayı\ardışıksayı\obj\Debug\net8.0\ardışıksayı.AssemblyInfo.cs
+C:\Users\serhat\source\repos\ardışıksayı\ardışıksayı\obj\Debug\net8.0\ardışıksayı.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\ardışıksayı\ardışıksayı\obj\Debug\net8.0\ardışıksayı.dll
+C:\Users\serhat\source\repos\ardışıksayı\ardışıksayı\obj\Debug\net8.0\refint\ardışıksayı.dll
+C:\Users\serhat\source\repos\ardışıksayı\ardışıksayı\obj\Debug\net8.0\ardışıksayı.pdb
+C:\Users\serhat\source\repos\ardışıksayı\ardışıksayı\obj\Debug\net8.0\ardışıksayı.genruntimeconfig.cache
+C:\Users\serhat\source\repos\ardışıksayı\ardışıksayı\obj\Debug\net8.0\ref\ardışıksayı.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serhat\\source\\repos\\madenciler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57D6C7B6-0F63-423A-BC54-81E58A34AF40}|madenciler\\madenciler.csproj|c:\\users\\serhat\\source\\repos\\madenciler\\madenciler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D6C7B6-0F63-423A-BC54-81E58A34AF40}|madenciler\\madenciler.csproj|solutionrelative:madenciler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serhat\\source\\repos\\madenciler\\madenciler\\Program.cs",
+              "RelativeDocumentMoniker": "madenciler\\Program.cs",
+              "ToolTip": "C:\\Users\\serhat\\source\\repos\\madenciler\\madenciler\\Program.cs",
+              "RelativeToolTip": "madenciler\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA4wCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:21:40.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

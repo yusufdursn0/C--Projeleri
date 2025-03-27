@@ -1,0 +1,14 @@
+C:\Users\serhat\source\repos\gizemli\gizemli\bin\Debug\net8.0\gizemli.exe
+C:\Users\serhat\source\repos\gizemli\gizemli\bin\Debug\net8.0\gizemli.deps.json
+C:\Users\serhat\source\repos\gizemli\gizemli\bin\Debug\net8.0\gizemli.runtimeconfig.json
+C:\Users\serhat\source\repos\gizemli\gizemli\bin\Debug\net8.0\gizemli.dll
+C:\Users\serhat\source\repos\gizemli\gizemli\bin\Debug\net8.0\gizemli.pdb
+C:\Users\serhat\source\repos\gizemli\gizemli\obj\Debug\net8.0\gizemli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\gizemli\gizemli\obj\Debug\net8.0\gizemli.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\gizemli\gizemli\obj\Debug\net8.0\gizemli.AssemblyInfo.cs
+C:\Users\serhat\source\repos\gizemli\gizemli\obj\Debug\net8.0\gizemli.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\gizemli\gizemli\obj\Debug\net8.0\gizemli.dll
+C:\Users\serhat\source\repos\gizemli\gizemli\obj\Debug\net8.0\refint\gizemli.dll
+C:\Users\serhat\source\repos\gizemli\gizemli\obj\Debug\net8.0\gizemli.pdb
+C:\Users\serhat\source\repos\gizemli\gizemli\obj\Debug\net8.0\gizemli.genruntimeconfig.cache
+C:\Users\serhat\source\repos\gizemli\gizemli\obj\Debug\net8.0\ref\gizemli.dll

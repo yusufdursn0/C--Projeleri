@@ -1,0 +1,14 @@
+C:\Users\serhat\source\repos\ürünsınıfı\ürünsınıfı\bin\Debug\net8.0\ürünsınıfı.exe
+C:\Users\serhat\source\repos\ürünsınıfı\ürünsınıfı\bin\Debug\net8.0\ürünsınıfı.deps.json
+C:\Users\serhat\source\repos\ürünsınıfı\ürünsınıfı\bin\Debug\net8.0\ürünsınıfı.runtimeconfig.json
+C:\Users\serhat\source\repos\ürünsınıfı\ürünsınıfı\bin\Debug\net8.0\ürünsınıfı.dll
+C:\Users\serhat\source\repos\ürünsınıfı\ürünsınıfı\bin\Debug\net8.0\ürünsınıfı.pdb
+C:\Users\serhat\source\repos\ürünsınıfı\ürünsınıfı\obj\Debug\net8.0\ürünsınıfı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\ürünsınıfı\ürünsınıfı\obj\Debug\net8.0\ürünsınıfı.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\ürünsınıfı\ürünsınıfı\obj\Debug\net8.0\ürünsınıfı.AssemblyInfo.cs
+C:\Users\serhat\source\repos\ürünsınıfı\ürünsınıfı\obj\Debug\net8.0\ürünsınıfı.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\ürünsınıfı\ürünsınıfı\obj\Debug\net8.0\ürünsınıfı.dll
+C:\Users\serhat\source\repos\ürünsınıfı\ürünsınıfı\obj\Debug\net8.0\refint\ürünsınıfı.dll
+C:\Users\serhat\source\repos\ürünsınıfı\ürünsınıfı\obj\Debug\net8.0\ürünsınıfı.pdb
+C:\Users\serhat\source\repos\ürünsınıfı\ürünsınıfı\obj\Debug\net8.0\ürünsınıfı.genruntimeconfig.cache
+C:\Users\serhat\source\repos\ürünsınıfı\ürünsınıfı\obj\Debug\net8.0\ref\ürünsınıfı.dll

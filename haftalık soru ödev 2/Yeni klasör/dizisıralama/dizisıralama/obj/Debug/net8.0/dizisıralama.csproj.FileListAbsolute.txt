@@ -1,0 +1,14 @@
+C:\Users\serhat\source\repos\dizisıralama\dizisıralama\bin\Debug\net8.0\dizisıralama.exe
+C:\Users\serhat\source\repos\dizisıralama\dizisıralama\bin\Debug\net8.0\dizisıralama.deps.json
+C:\Users\serhat\source\repos\dizisıralama\dizisıralama\bin\Debug\net8.0\dizisıralama.runtimeconfig.json
+C:\Users\serhat\source\repos\dizisıralama\dizisıralama\bin\Debug\net8.0\dizisıralama.dll
+C:\Users\serhat\source\repos\dizisıralama\dizisıralama\bin\Debug\net8.0\dizisıralama.pdb
+C:\Users\serhat\source\repos\dizisıralama\dizisıralama\obj\Debug\net8.0\dizisıralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\dizisıralama\dizisıralama\obj\Debug\net8.0\dizisıralama.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\dizisıralama\dizisıralama\obj\Debug\net8.0\dizisıralama.AssemblyInfo.cs
+C:\Users\serhat\source\repos\dizisıralama\dizisıralama\obj\Debug\net8.0\dizisıralama.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\dizisıralama\dizisıralama\obj\Debug\net8.0\dizisıralama.dll
+C:\Users\serhat\source\repos\dizisıralama\dizisıralama\obj\Debug\net8.0\refint\dizisıralama.dll
+C:\Users\serhat\source\repos\dizisıralama\dizisıralama\obj\Debug\net8.0\dizisıralama.pdb
+C:\Users\serhat\source\repos\dizisıralama\dizisıralama\obj\Debug\net8.0\dizisıralama.genruntimeconfig.cache
+C:\Users\serhat\source\repos\dizisıralama\dizisıralama\obj\Debug\net8.0\ref\dizisıralama.dll

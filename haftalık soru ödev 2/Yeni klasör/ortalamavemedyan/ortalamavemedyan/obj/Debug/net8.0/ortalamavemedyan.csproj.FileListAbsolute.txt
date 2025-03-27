@@ -1,0 +1,14 @@
+C:\Users\serhat\source\repos\ortalamavemedyan\ortalamavemedyan\bin\Debug\net8.0\ortalamavemedyan.exe
+C:\Users\serhat\source\repos\ortalamavemedyan\ortalamavemedyan\bin\Debug\net8.0\ortalamavemedyan.deps.json
+C:\Users\serhat\source\repos\ortalamavemedyan\ortalamavemedyan\bin\Debug\net8.0\ortalamavemedyan.runtimeconfig.json
+C:\Users\serhat\source\repos\ortalamavemedyan\ortalamavemedyan\bin\Debug\net8.0\ortalamavemedyan.dll
+C:\Users\serhat\source\repos\ortalamavemedyan\ortalamavemedyan\bin\Debug\net8.0\ortalamavemedyan.pdb
+C:\Users\serhat\source\repos\ortalamavemedyan\ortalamavemedyan\obj\Debug\net8.0\ortalamavemedyan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\ortalamavemedyan\ortalamavemedyan\obj\Debug\net8.0\ortalamavemedyan.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\ortalamavemedyan\ortalamavemedyan\obj\Debug\net8.0\ortalamavemedyan.AssemblyInfo.cs
+C:\Users\serhat\source\repos\ortalamavemedyan\ortalamavemedyan\obj\Debug\net8.0\ortalamavemedyan.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\ortalamavemedyan\ortalamavemedyan\obj\Debug\net8.0\ortalamavemedyan.dll
+C:\Users\serhat\source\repos\ortalamavemedyan\ortalamavemedyan\obj\Debug\net8.0\refint\ortalamavemedyan.dll
+C:\Users\serhat\source\repos\ortalamavemedyan\ortalamavemedyan\obj\Debug\net8.0\ortalamavemedyan.pdb
+C:\Users\serhat\source\repos\ortalamavemedyan\ortalamavemedyan\obj\Debug\net8.0\ortalamavemedyan.genruntimeconfig.cache
+C:\Users\serhat\source\repos\ortalamavemedyan\ortalamavemedyan\obj\Debug\net8.0\ref\ortalamavemedyan.dll

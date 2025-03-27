@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bankahesapnumarası/1.0.0": {
+        "runtime": {
+          "Bankahesapnumarası.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bankahesapnumarası/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

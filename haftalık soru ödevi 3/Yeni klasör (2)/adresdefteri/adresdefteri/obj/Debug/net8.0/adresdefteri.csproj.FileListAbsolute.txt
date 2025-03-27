@@ -1,0 +1,14 @@
+C:\Users\serhat\source\repos\adresdefteri\adresdefteri\bin\Debug\net8.0\adresdefteri.exe
+C:\Users\serhat\source\repos\adresdefteri\adresdefteri\bin\Debug\net8.0\adresdefteri.deps.json
+C:\Users\serhat\source\repos\adresdefteri\adresdefteri\bin\Debug\net8.0\adresdefteri.runtimeconfig.json
+C:\Users\serhat\source\repos\adresdefteri\adresdefteri\bin\Debug\net8.0\adresdefteri.dll
+C:\Users\serhat\source\repos\adresdefteri\adresdefteri\bin\Debug\net8.0\adresdefteri.pdb
+C:\Users\serhat\source\repos\adresdefteri\adresdefteri\obj\Debug\net8.0\adresdefteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\adresdefteri\adresdefteri\obj\Debug\net8.0\adresdefteri.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\adresdefteri\adresdefteri\obj\Debug\net8.0\adresdefteri.AssemblyInfo.cs
+C:\Users\serhat\source\repos\adresdefteri\adresdefteri\obj\Debug\net8.0\adresdefteri.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\adresdefteri\adresdefteri\obj\Debug\net8.0\adresdefteri.dll
+C:\Users\serhat\source\repos\adresdefteri\adresdefteri\obj\Debug\net8.0\refint\adresdefteri.dll
+C:\Users\serhat\source\repos\adresdefteri\adresdefteri\obj\Debug\net8.0\adresdefteri.pdb
+C:\Users\serhat\source\repos\adresdefteri\adresdefteri\obj\Debug\net8.0\adresdefteri.genruntimeconfig.cache
+C:\Users\serhat\source\repos\adresdefteri\adresdefteri\obj\Debug\net8.0\ref\adresdefteri.dll
